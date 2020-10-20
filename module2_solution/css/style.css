@@ -46,6 +46,7 @@ h1 {
   padding: 6px 90px;
   border-left: 2px solid #000;
   border-bottom: 2px solid #000;
+  width:60px;
 }
 
 #chicken {
@@ -53,6 +54,7 @@ h1 {
 } 
 
 #beef{
+color : white;
   background-color: #C14543;
 }
 
